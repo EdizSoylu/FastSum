@@ -12,6 +12,5 @@ The Notes file is for saved notes but sadly it broke at some point and I have no
 
 The PDFs file is for PDF documents that are meant to be summarized.
 
-Ediz Soylu 2230329021
 
 
