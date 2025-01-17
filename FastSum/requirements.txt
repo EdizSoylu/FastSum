@@ -1,0 +1,2 @@
+#This project requires Python 3.12
+PyMuPDF==1.25.1
